@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<section
+  className="keypad"
+>
+  <div
+    className="keypad__row"
+  >
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      C
+    </button>
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      <span>
+        ←
+      </span>
+    </button>
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      %
+    </button>
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      <span>
+        ÷
+      </span>
+    </button>
+  </div>
+  <div
+    className="keypad__row"
+  >
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      9
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      8
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      7
+    </button>
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      <span>
+        ×
+      </span>
+    </button>
+  </div>
+  <div
+    className="keypad__row"
+  >
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      4
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      5
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      6
+    </button>
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="keypad__row"
+  >
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      1
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      2
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      3
+    </button>
+    <button
+      className="btn operator"
+      onClick={[Function]}
+    >
+      -
+    </button>
+  </div>
+  <div
+    className="keypad__row"
+  >
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      0
+    </button>
+    <button
+      className="btn"
+      onClick={[Function]}
+    >
+      .
+    </button>
+    <button
+      className="btn btn--large"
+      onClick={[Function]}
+    >
+      =
+    </button>
+  </div>
+</section>
+`;
